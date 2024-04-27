@@ -6,7 +6,7 @@ package biblioteca;
 
 /**
  *
- * @author mao
+ * @author Mauricio
  */
 public class Biblioteca {
 
